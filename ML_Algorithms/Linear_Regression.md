@@ -27,3 +27,4 @@ In that case, we use this formula:
                                                 
 This formula deals with multiple features by having a weight vector for each feature
 
+![62291](https://github.com/user-attachments/assets/c18743d1-c1d6-427a-8409-2b7517b6f8be)
