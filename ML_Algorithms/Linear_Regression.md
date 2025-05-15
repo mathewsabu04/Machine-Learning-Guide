@@ -8,8 +8,12 @@
                                                           y = wx + b
 
 y =  predicted value
+
 w = slope (how much y changes with x)
+
 x = input data
+
 b = y intercept
+
 
 
