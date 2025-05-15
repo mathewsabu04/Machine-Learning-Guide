@@ -29,6 +29,6 @@ This formula deals with multiple features by having a weight vector for each fea
 
 # Example
 
-Lets say we have a dataset that has house prices based off the size. Below is a image where we can predict how much a house cost based off the size of the house using linear regression.  X = size of the house, Y = the price of the house. The blue line is the linear line that was produced. Now this like can be changed based off how we change the weights (w) and the bias (b). We change these based off the [**loss function**] and [**gradient descent **]
+Lets say we have a dataset that has house prices based off the size. Below is a image where we can predict how much a house cost based off the size of the house using linear regression.  X = size of the house, Y = the price of the house. The blue line is the linear line that was produced. Now this like can be changed based off how we change the weights (w) and the bias (b). We change these based off the **loss function** and **gradient descent**
 
 ![62291](https://github.com/user-attachments/assets/c18743d1-c1d6-427a-8409-2b7517b6f8be)
