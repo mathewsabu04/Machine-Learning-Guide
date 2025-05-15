@@ -16,4 +16,11 @@ x = input data
 b = y intercept
 
 
+Now this formula only works if there is only 1 input. What happens if we have mulitple features? 
+
+
+In that case, we use this formula: 
+
+
+                                  y = w1x1 + w2x2 + w3x3 + ... + wnxn + b
 
