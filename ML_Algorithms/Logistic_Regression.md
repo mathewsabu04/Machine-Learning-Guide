@@ -8,3 +8,7 @@
   
   ![Screenshot 2025-05-16 at 1 52 17 pm](https://github.com/user-attachments/assets/3cb31e11-5f43-468b-8fcb-8e4fd53c7391)
 
+
+
+Where z is a linear of combinations. The output will either be 1 or 0. 
+
