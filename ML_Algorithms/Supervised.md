@@ -4,6 +4,4 @@ Supervised Learning is when our model is being trained on label data. Know what 
 - [Linear Regression](Linear_Regression.md)
 - [Logistic Regression](Logistic_Regression.md)
 - [Decision Trees](Decision_Tree.md)
-- Random Forest
-- SVM
-- KNN
+- [Random Forest](Random_Forest.md)
