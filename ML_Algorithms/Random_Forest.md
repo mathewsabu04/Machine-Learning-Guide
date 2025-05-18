@@ -22,6 +22,7 @@ A random forest is like asking a group of decision trees to vote on the answer �
   Do this hundreds or thousands of times (e.g., 100 trees).
 
 **Combine Predictions:**
+  
   Classification → majority vote
 
   Regression → average
