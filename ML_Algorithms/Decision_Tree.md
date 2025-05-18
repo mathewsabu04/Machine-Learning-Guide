@@ -13,3 +13,6 @@
 Here is a visual representation of a decision tree:
 
 ![Screenshot 2025-05-17 at 9 19 18 pm](https://github.com/user-attachments/assets/3f2f2e3e-667e-4f23-80d3-f614ef1aa4bc)
+
+Now the way how decision trees make the questions is based off of **purity**. Purity is a concept where we want to make sure all the class lables are the same. For example, lets say we are dealing with a 
+email spam classification problem. If you're classifying emails as spam or not spam, and a node contains only spam emails, it's considered 100% pure. If it contains a 50/50 mix, it's less pure. The goal is to increase the purity. 
